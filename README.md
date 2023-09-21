@@ -15,12 +15,26 @@ There's a few other examples kind of projects in here, most of which are probabl
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently liking Java!
 
-.. outside of work...my coaching. There are 3 entities I coach with at the moment; The Trinamics Sports Club a triathlon club that provides group training and a buddy system for those who do not want to train solo on the roads of Cayman; The Mustang Track Club the biggest youth running club on the Island and the John Gray High School Swim Club the kids of the main public high school.
+.. when not develping software, I coach athletes. I co-founded [Club Trinamics](http://trinamics.club), an npo helping high schoolers in sports. 
 
-I recently moved the Trinamics Club website over to a Stack App platform but because the host was looking to charge us more than we could pay and it didn't offer an easy migration path from wordpress. I would like to take the opportunity to develop it into a couple of different repos: one for the club themselves a demo instance, one for the frontend, and one for the backend. Hopefully this makes it easier for people to suggest some ideas (in the form of a pull request, of course).
-
-- 🌱 I’m currently learning ...
-
-..how to be an effective communicator. I have a Computer Science degree from a liberal arts school but I found that most of my preparation towards having a good career and moonlighting gig is knowing how to present ideas and thoughts. 
+- 🌱 I’m currently learning
+```
+                              %@@@@@@@@@@@@@@@@@@@
+                              %@@@@@@//////&@@///@
+                ///           %@@@/////////@@@@@/@
+              /@@@(//         %/////////@@///////@
+            //@@@@@@&//    //////////@#(//////@@@@
+          ,//@@@@@@@@@@////////(/%%*%/////@@@@@@@@
+         ***@@@@@&&&#&@@@//////@@@@%//(@@@@@@@@@@@
+        ***@@@@@@&&%%#&@@@////(@(///@@@@@@@@@@@@@@
+      ****@@@@@@@&&&&&@    @@@///@@@@@@@@@@@@@@@@@
+    ******@*.   .,,         ./%@@@@@@@@@@@@@@@@@@@
+  ,,,,,@@@,,                  &@@@@@@@@@@@@@@@@@@@
+ *,,,@%**/,,                   @@@@@@@@@@@@@@@@@@@
+ **@@@@**,,,                   @@@@@@@@@@@@@@@@@@@
+ @@@@@*.#,,,          @%###.  %@@@@@@@@@@@@@@@@@@@
+@@&%&&@@@,,,,.  ,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@(,,,,/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
